@@ -1,0 +1,6 @@
+@CSOSytem.API_HostAddress = http://localhost:5238
+
+GET {{CSOSytem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
